@@ -11,8 +11,7 @@ jobs:
     runs-on: ubuntu-lastest
 
     steps:
-      - name: "testing github actions"
-        run: pwd
+      - name: "listing files"
+        run: ls
 
-      - name: "printing a word "
-        run: echo start
+  

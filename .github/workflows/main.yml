@@ -14,5 +14,5 @@ jobs:
       - name: "testing github actions"
         run: pwd
 
-      - name: "printing a word"
+      - name: "printing a word "
         run: echo start
